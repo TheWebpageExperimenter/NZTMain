@@ -22,9 +22,9 @@
 #pragma once
 #endif
 
-#define VER_PRODUCTBUILD            /* NT */   3790
+#define VER_PRODUCTBUILD            /* NT */   4159
 
-#define VER_PRODUCTBUILD_QFE        0
+#define VER_PRODUCTBUILD_QFE        2026
 
 #if defined(NASHVILLE)
 // IE components now use NT's VER_PRODUCTBUILD, but define other different major/minor version #'s
